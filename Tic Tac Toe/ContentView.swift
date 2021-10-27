@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Tic Tac Toe
 //
-//  Created by Student on 10/27/21.
+//  Created by Dylan Koehler on 10/27/21.
 //
 
 import SwiftUI
